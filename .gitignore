@@ -1,7 +1,7 @@
 node_modules/
 .idea
 reports/
-dist/
+#dist/
 .nyc_output/
 *.iml
 yarn-error.log
